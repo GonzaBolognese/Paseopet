@@ -1,3 +1,4 @@
+![Logo Paseo Pet](frontend/imgs/Paseo-pet.png)
 # Paseo Pet - Aplicación de Paseos de Perros
 
 Paseo Pet es una aplicación de paseos de perros desarrollada como parte de un proyecto universitario con fines educativos. La idea principal de la aplicación es conectar a los paseadores de perros de una determinada zona con los perros que necesitan un paseo. La aplicación está desarrollada en PHP y utiliza PHPMyAdmin como base de datos.
