@@ -1,0 +1,94 @@
+/* Styling for Hero Section */
+body {
+    background-color: #cca6ff ;
+}
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+ 
+section h1{
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #683aa4;
+    text-align: left;
+    margin-bottom: 20px;
+} 
+#back {
+   float: right;
+    background-color: #7bff42;
+    max-width: 50%;
+}
+section p{
+    font-size: 16px;
+    font-weight: 300;
+}
+#olvide{
+margin-top: 20px;
+}
+#next{
+    justify-content: left;
+    max-width: 50%;
+    border-radius: 7px !important;
+    background-color: #7bff42 !important; 
+    margin-top: 20px;
+}
+#log{
+    max-width: 50%;
+    border-radius: 7px !important;
+    background-color: #7bff42 !important; 
+    margin-top: 20px;
+    justify-content: center !important;
+
+    
+}
+
+#hero .col{
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+
+#hero .img-col{
+    justify-content: flex-end;
+    margin-top: 100px;
+}
+
+#hero img{
+    max-width: 80%;
+    width: 80% ;
+}
+
+#dropdown {
+    padding-left: 3em;
+}
+#profile{
+    justify-content: center;
+    margin: auto;
+}
+#save { 
+    border-radius: 7px !important;
+    background-color: #7bff42 !important; 
+    margin-top: 20px;
+    justify-content: center !important;
+}
+.card-body{
+    background-color: #683aa4a7;
+    padding-top: 1em;
+}
+.card{
+    border: 0ch;
+}
+
+.contenedor{
+    height: 3000px;
+    top: 100%;
+}
+
+.alerta{
+    top: 50%;
+}
+
+.titulo{
+    border: 2px solid #000;
+}
